@@ -40,7 +40,11 @@ footer{
  background-color:rgb(0,150,136);   
 }
 
-
+/* @media screen  and(max-width:368px){
+ .sec1_wrapper .container-fluid .row .bnt1{
+margin-bottom: 10px;
+} 
+} */
 
 
 
